@@ -1,0 +1,220 @@
+@charset "utf-8";
+/*
+    !配置全局的字体图标样式
+*/
+@font-face {
+    font-family: 'Icon-store';
+    src:  url('fonts/Icon-store.eot?li07rw');
+    src:  url('fonts/Icon-store.eot?li07rw#iefix') format('embedded-opentype'),
+    url('fonts/Icon-store.ttf?li07rw') format('truetype'),
+    url('fonts/Icon-store.woff?li07rw') format('woff'),
+    url('fonts/Icon-store.svg?li07rw#Icon-store') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'Icon-store' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-7:before {
+    content: "\e900";
+}
+.icon-appreciate:before {
+    content: "\e901";
+    color: #666;
+}
+.icon-deliver_fill:before {
+    content: "\e902";
+}
+.icon-money_bag_fill:before {
+    content: "\e903";
+}
+.icon-new:before {
+    content: "\e904";
+}
+.icon-record_fill:before {
+    content: "\e905";
+}
+.icon-record_light:before {
+    content: "\e906";
+}
+.icon-video_fill:before {
+    content: "\e907";
+}
+.icon-wang_fill:before {
+    content: "\e908";
+}
+.icon-wrong:before {
+    content: "\e909";
+}
+.icon-ewm:before {
+    content: "\e90a";
+}
+.icon-gwck:before {
+    content: "\e90b";
+}
+.icon-gwcj:before {
+    content: "\e90c";
+}
+.icon-fire:before {
+    content: "\e90d";
+}
+.icon-sck:before {
+    content: "\e90e";
+}
+.icon-scj:before {
+    content: "\e90f";
+}
+.icon-ljx:before {
+    content: "\e910";
+}
+.icon-lw:before {
+    content: "\e911";
+}
+.icon-lj:before {
+    content: "\e912";
+}
+.icon-lcw:before {
+    content: "\e913";
+}
+.icon-free:before {
+    content: "\e914";
+}
+.icon-nz:before {
+    content: "\e915";
+}
+.icon-sys:before {
+    content: "\e916";
+}
+.icon-sf:before {
+    content: "\e917";
+}
+.icon-set:before {
+    content: "\e918";
+}
+.icon-voice:before {
+    content: "\e919";
+}
+.icon-time:before {
+    content: "\e91a";
+}
+.icon-adress:before {
+    content: "\e91b";
+}
+.icon-index:before {
+    content: "\e91c";
+}
+.icon-refresh:before {
+    content: "\e91d";
+}
+.icon-搜索:before {
+    content: "\e91e";
+}
+.icon-锁:before {
+    content: "\e91f";
+}
+.icon-info:before {
+    content: "\e920";
+}
+.icon-complete:before {
+    content: "\e921";
+}
+.icon-order:before {
+    content: "\e922";
+}
+.icon-messages:before {
+    content: "\e923";
+}
+.icon-hb:before {
+    content: "\e924";
+}
+.icon-yhq:before {
+    content: "\e925";
+}
+.icon-xf:before {
+    content: "\e926";
+}
+.icon-xl:before {
+    content: "\e927";
+}
+.icon-xs:before {
+    content: "\e928";
+}
+.icon-xx:before {
+    content: "\e929";
+}
+.icon-xy:before {
+    content: "\e92a";
+}
+.icon-xz:before {
+    content: "\e92b";
+}
+.icon-xxzx:before {
+    content: "\e92c";
+}
+.icon-eye:before {
+    content: "\e92d";
+}
+.icon-yjfk:before {
+    content: "\e92e";
+}
+.icon-yy:before {
+    content: "\e930";
+}
+.icon-zxj:before {
+    content: "\e931";
+}
+.icon-zq:before {
+    content: "\e932";
+}
+.icon-music:before {
+    content: "\e933";
+}
+.icon-coin-yen:before {
+    content: "\e93e";
+}
+.icon-display:before {
+    content: "\e956";
+}
+.icon-mobile:before {
+    content: "\e958";
+}
+.icon-bubble:before {
+    content: "\e96b";
+}
+.icon-user-plus:before {
+    content: "\e973";
+}
+.icon-user-minus:before {
+    content: "\e974";
+}
+.icon-spinner11:before {
+    content: "\e984";
+}
+.icon-search:before {
+    content: "\e986";
+}
+.icon-zoom-in:before {
+    content: "\e987";
+}
+.icon-zoom-out:before {
+    content: "\e988";
+}
+.icon-lock:before {
+    content: "\e98f";
+}
+.icon-unlocked:before {
+    content: "\e990";
+}

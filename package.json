@@ -1,0 +1,15 @@
+{
+  "name": "TIME",
+  "version": "1.0.0",
+  "description": "* 使用rem适配终端 \r * css 使用compass和ui类库\r * js 使用jquery.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
